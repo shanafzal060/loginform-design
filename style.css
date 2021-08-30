@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+}
+
+div{
+    background-color: snow;
+    width: 350px;
+    height: 350px;
+    margin: 150px auto 100px auto;
+    padding: 5px 30px 5px 30px ;
+    border-radius: 30px;
+    line-height: 60px;
+    text-align: center;    
+}
+
+input{
+    padding: 8px;
+    border-radius: 8px;
+    background-color:lightcyan;
+    border: 2px solid skyblue;
+    width: 200px; 
+}
+
+
+
+div>button{
+    background-color: rgb(86, 158, 216);
+    width: 100px;
+    border-radius: 20px;
+    color: snow;
+    border: 2px solid snow;
+    padding: 5px; 
+}
+
+h1{
+    color: rgb(25, 100, 161) ;
+}
+
+
